@@ -1,16 +1,16 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: Functional Issue template
+about: Functional Issue template
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-### 🧩 Descripción
+### 🧩 Description
 
 
-### ⚙️ Precondiciones
+### ⚙️ Precondicions
 - 
 - 
 - 
