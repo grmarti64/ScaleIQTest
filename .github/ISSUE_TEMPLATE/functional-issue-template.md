@@ -10,7 +10,7 @@ assignees: ''
 ### 🧩 Description
 
 
-### ⚙️ Precondicions
+### ⚙️ Preconditions
 - 
 - 
 - 
@@ -26,8 +26,8 @@ assignees: ''
 - 
 - 
 
- ### Error encontrado:  Si se encontro error
-- [] Crear Issue Bug correpondiente
-- [] Relacionar esta tarjeta con Issue de bug creada
+ ### Error Found: If error was found
+- [] Create corresponding Issue Bug
+- [] Relate this card to the created bug issue
 
-**Bug encontrado: Relacionar con Issue Bug** #
+**Bug Found: Relate to Bug Issue** #
