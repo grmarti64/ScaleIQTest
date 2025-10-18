@@ -11,10 +11,10 @@ assignees: ''
 Relacionado con: #
 
 ### ⚙️ Contexto
-- Módulo: ScaleIQ AI  
+- Módule: ScaleIQ AI  
 - Versión: 
-- Navegador: Chrome
-- Sistema operativo: Windows 10  
+- Browse: Chrome
+- Operating system: Windows 10  
 
 ### 🪜 Steps to Reproduce
 1.
@@ -26,17 +26,17 @@ Relacionado con: #
 ### ✅ Expected Result
 -
 
-### 📸 Evidencia
-Adjuntar:
-- [] Captura de pantalla del error.
-- [ ] Log de consola si es posible.
-- [ ] Registro del timestamp (hora exacta del fallo).
+### 📸 Evidence
+Attach:
+- [] Screenshot of the error.
+- [ ]Console log if possible.
+- [ ] Timestamp record (exact time of failure).
 
-### 🔁 Relacionado con
-- Issue original: #
+### 🔁 Related to
+- Original Issue: #
 
-### 🧩 Estado
-- [] Detectado  
-- [] Reproducido  
-- [ ] En análisis  
-- [ ] Resuelto
+### 🧩 State
+- [] Detected 
+- [] Reproduced
+- [ ]Under analysis  
+- [ ] Resolved
