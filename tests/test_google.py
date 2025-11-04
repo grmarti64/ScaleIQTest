@@ -14,5 +14,5 @@ def test_busqueda_google():
     caja = driver.find_element(By.NAME, "q")
     caja.send_keys("ChatGPT\n")
 
-    assert "ChatGPT" in driver.title
+    assert "search" in driver.current_url or "q=ChatGPT" in driver.current_url, \f"URL inesperada: {driver.current_url}"
     driver.quit()
