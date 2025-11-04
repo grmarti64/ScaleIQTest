@@ -21,5 +21,5 @@ def test_busqueda_en_python_org():
     search_box = driver.find_element(By.NAME, "q")
     search_box.send_keys("testing\n")
 
-    assert "results" in driver.current_url
+    assert "/search/" in driver.current_url
     driver.quit()
